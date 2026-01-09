@@ -14,3 +14,8 @@
 하기 싫을 때 보는 글 :
   1. 아는 것이 많아질 수록 무지해지니까 상심하지 마라 
   2. https://www.youtube.com/watch?v=Aq2Yov6CIOk (동기부여 영상)
+
+코딩 할 때 백색소음 모음 :
+  1. 빗소리 : https://www.youtube.com/watch?v=lQ0fS2meTYQ&t=15266s
+  2. 장작타는소리 : https://www.youtube.com/watch?v=N_g3AiXF-q8&t=2356s
+  3. 냇가 소리 : https://www.youtube.com/watch?v=SgEQrUIKJ6Y&t=3s
