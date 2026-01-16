@@ -24,3 +24,8 @@
   1. 빗소리 : https://www.youtube.com/watch?v=lQ0fS2meTYQ&t=15266s
   2. 장작타는소리 : https://www.youtube.com/watch?v=N_g3AiXF-q8&t=2356s
   3. 냇가 소리 : https://www.youtube.com/watch?v=SgEQrUIKJ6Y&t=3s
+
+도움이 될 것 같은 생각 (확실하진 않음)
+  1. 기술 블로그와 다른 사람의 git 코드를 확인 (Swagger , Restdoc)를 이 과정에서 찾아서 swagger 적용하였음. kafka, k8s , 등 어떤 기능을 하는지만 알아두고 쓰임이 필요할 때 가져다가 쓰기
+  2. 계속 사용할 만한 것들 기술 블로그 작성
+  3. 토스 , 우형 , 등등 여러가지 컨퍼런스 글 보면서 배울점이나 이런 부분은 적용하면 좋겠다 라는 것을 찾아보고 그 사람들이 하는 말에 내가 어느정도 까지 공감 할 수 있는지 나의 위치를 체크하는 부분도 괜찮아 보임
