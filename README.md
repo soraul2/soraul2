@@ -16,7 +16,7 @@
   2. https://www.youtube.com/watch?v=Aq2Yov6CIOk (동기부여 영상)
 
 해야 하는 작업 :
-  1. Farm -> 백엔드 (Springboot) , 프론트엔드 (react) 로 완전 분리 성공 -> gitAction을 통해서 자동 CI/CD 확립 (1월 21일)
+  1. Farm -> 백엔드 (Springboot) , 프론트엔드 (react) 로 완전 분리 성공 -> gitAction을 통해서 자동 CI/CD 확립 (1월 21일) -> 22일로 미뤄짐. 집에서 개인 사정으로 하루 쉬게 됐음
 
 코딩 할 때 백색소음 모음 :
   1. 빗소리 : https://www.youtube.com/watch?v=lQ0fS2meTYQ&t=15266s
@@ -27,3 +27,4 @@
   1. 기술 블로그와 다른 사람의 git 코드를 확인 (Swagger , Restdoc)를 이 과정에서 찾아서 swagger 적용하였음. kafka, k8s , 등 어떤 기능을 하는지만 알아두고 쓰임이 필요할 때 가져다가 쓰기
   2. 계속 사용할 만한 것들 기술 블로그 작성
   3. 토스 , 우형 , 등등 여러가지 컨퍼런스 글 보면서 배울점이나 이런 부분은 적용하면 좋겠다 라는 것을 찾아보고 그 사람들이 하는 말에 내가 어느정도 까지 공감 할 수 있는지 나의 위치를 체크하는 부분도 괜찮아 보임
+
