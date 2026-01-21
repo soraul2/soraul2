@@ -17,7 +17,8 @@
 
 해야 하는 작업 :
   1. Farm -> 백엔드 (Springboot) , 프론트엔드 (react) 로 완전 분리 성공 -> gitAction을 통해서 자동 CI/CD 확립 (1월 21일) -> 22일로 미뤄짐. 집에서 개인 사정으로 하루 쉬게 됐음
-
+  2. TDD , MSA 에 관해 간단한 예제 및 체크해야 할 듯. 지금은 모놀리식 구조만 해보았음.
+    
 코딩 할 때 백색소음 모음 :
   1. 빗소리 : https://www.youtube.com/watch?v=lQ0fS2meTYQ&t=15266s
   2. 장작타는소리 : https://www.youtube.com/watch?v=N_g3AiXF-q8&t=2356s
