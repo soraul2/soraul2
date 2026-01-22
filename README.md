@@ -18,7 +18,7 @@
 해야 하는 작업 :
   1. Farm -> 백엔드 (Springboot) , 프론트엔드 (react) 로 완전 분리 성공 -> gitAction을 통해서 자동 CI/CD 확립 (1월 21일) -> 22일로 미뤄짐. 21일에 어찌어찌 docker , gitaction으로 배포는 해보았으나 성공은 함. 하지만 온갖 에러에 시달려서 제미나이 pro 다 써서 정리를 한번 할 필요성이 생김.
   2. TDD , MSA 에 관해 간단한 예제 및 체크해야 할 듯. 지금은 모놀리식 구조만 해보았음.
-    
+  
 코딩 할 때 백색소음 모음 :
   1. 빗소리 : https://www.youtube.com/watch?v=lQ0fS2meTYQ&t=15266s
   2. 장작타는소리 : https://www.youtube.com/watch?v=N_g3AiXF-q8&t=2356s
@@ -33,3 +33,12 @@
   1. https://news.hada.io/ IT 분야에 관한 서비스를 확인할 수 있음
   2. https://toss.tech/ 토스 기술 블로그
   3. 
+
+해보고 싶은 것
+
+  -local 에 설치하여 무료로 ai 활용
+    모델명,설치 명령어,특징
+    Llama 3.1 (8B),ollama run llama3.1,가장 표준적이고 똑똑한 범용 모델 (추천)
+    Gemma 2 (9B),ollama run gemma2,구글 제작. 한국어 이해도가 꽤 높음
+    Mistral Nemo (12B),ollama run mistral-nemo,12GB VRAM을 거의 꽉 채워 쓰며 성능이 매우 좋음
+    DeepSeek-R1 (7B/8B),ollama run deepseek-r1:8b,최근 유행하는 '추론형' 모델. 복잡한 논리 문제에 강함
