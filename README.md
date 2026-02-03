@@ -16,8 +16,10 @@
   2. https://www.youtube.com/watch?v=Aq2Yov6CIOk (동기부여 영상)
 
 해야 하는 작업 :
-  1. Farm -> 백엔드 (Springboot) , 프론트엔드 (react) 로 완전 분리 성공 -> gitAction을 통해서 자동 CI/CD 확립 (1월 21일) -> 22일로 미뤄짐. 21일에 어찌어찌 docker , gitaction으로 배포는 해보았으나 성공은 함. 하지만 온갖 에러에 시달려서 제미나이 pro 다 써서 정리를 한번 할 필요성이 생김.
+  1. Farm -> 백엔드 (Springboot) , 프론트엔드 (react) 로 완전 분리 성공 -> gitAction을 통해서 자동 CI/CD 확립 (1월 21일) -> 22일로 미뤄짐. 21일에 어찌어찌 docker , gitaction으로 배포는 해보았으나 성공은 함. 하지만 온갖 에러에 시달려서 제미나이 pro 다 써서 정리를 한번 할 필요성이 생김.(완료)
   2. TDD , MSA 에 관해 간단한 예제 및 체크해야 할 듯. 지금은 모놀리식 구조만 해보았음.
+  3. redis 인메모리 데이터베이스를 활용한 도메인 기능 구현.
+  4. 
 
 코딩 할 때 백색소음 모음 :
   1. 빗소리 : https://www.youtube.com/watch?v=lQ0fS2meTYQ&t=15266s
@@ -56,6 +58,7 @@
   1. 왜 만들었는가?
   2. 무엇을 제공하는가?
   3. 타겟 연령층은 몇살로 잡았는가?
+  4. 
   
     
     
