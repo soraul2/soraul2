@@ -35,6 +35,8 @@
   1. https://news.hada.io/ IT 분야에 관한 서비스를 확인할 수 있음
   2. https://toss.tech/ 토스 기술 블로그
 
+  3. https://news.hada.io/topic?id=26375
+
 해보고 싶은 것
 
   -local 에 설치하여 무료로 ai 활용
