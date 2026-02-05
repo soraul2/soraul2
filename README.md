@@ -36,7 +36,8 @@
   2. https://toss.tech/ 토스 기술 블로그
 
   3. https://news.hada.io/topic?id=26375
-
+  4. https://toss.tech/article/Marketing_Writing (toss 마케팅에 대한 보고서)
+  5. 
 해보고 싶은 것
 
   -local 에 설치하여 무료로 ai 활용
@@ -64,6 +65,8 @@
   2. 무엇을 제공하는가?
   3. 타겟 연령층은 몇살로 잡았는가?
   4. 
+
+
 
 Mystic tarot 사용자 테스트 시작
   # 사용자 피드백 요약 및 개선 제안 💡
