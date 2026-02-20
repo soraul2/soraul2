@@ -25,7 +25,6 @@
 개발 지식에 도움이 되는 사이트
   1. https://news.hada.io/ IT 분야에 관한 서비스를 확인할 수 있음
   2. https://toss.tech/ 토스 기술 블로그
-
   3. https://news.hada.io/topic?id=26375
   4. https://toss.tech/article/Marketing_Writing (toss 마케팅에 대한 보고서)
 
@@ -41,8 +40,11 @@
   2. 판로 구축
   3. 효율적인 아키텍쳐 구성
 
+
+
 첨삭시 들은 사항:
   1. 왜 만들었는가?
   2. 무엇을 제공하는가?
   3. 타겟 연령층은 몇살로 잡았는가?
-  4. 
+
+청년 창업 관련 정책 찾아보고 신청해야함.
