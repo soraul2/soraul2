@@ -27,7 +27,8 @@
   2. https://toss.tech/ 토스 기술 블로그
   3. https://news.hada.io/topic?id=26375
   4. https://toss.tech/article/Marketing_Writing (toss 마케팅에 대한 보고서)
-
+  5. https://www.awwwards.com/ 최신 ui/ux 참고
+  6. 
 
 해보고 싶은 것
   1. 아이디어를 정리하고 관리 할 수 있는 계획적인 사이트가 필요함 (아이디어가 떠올라도 계속 증발)
