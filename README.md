@@ -1,4 +1,4 @@
-개발 할 때 참고 해야 하는 사항 : 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/11d9bead-e1b9-49bb-bdc9-e55e76d9df8e" />개발 할 때 참고 해야 하는 사항 : 
 
   1. 건축으로 치면 개집을 지을 때는 설계도 없이 톱질부터 해도 되지만, 사람 사는 집을 지을 때는 최소한 기둥 위치(DB 설계)는 잡아야 무너지지 않습니다. (개집 만들고 싶지 않으면 잘 하라는 뜻)
   2. 구현 하려는 기능의 페이지를 간단하게 스케치라도 작성한다.
@@ -28,7 +28,7 @@
   3. https://news.hada.io/topic?id=26375
   4. https://toss.tech/article/Marketing_Writing (toss 마케팅에 대한 보고서)
   5. https://www.awwwards.com/ 최신 ui/ux 참고
-  6. 
+  6. lottieFiles -> svg , animation 
 
 해보고 싶은 것
   1. 아이디어를 정리하고 관리 할 수 있는 계획적인 사이트가 필요함 (아이디어가 떠올라도 계속 증발)
