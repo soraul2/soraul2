@@ -28,7 +28,8 @@
   3. https://news.hada.io/topic?id=26375
   4. https://toss.tech/article/Marketing_Writing (toss 마케팅에 대한 보고서)
   5. https://www.awwwards.com/ 최신 ui/ux 참고
-  6. lottieFiles -> svg , animation 
+  6. lottieFiles -> svg , animation
+  7. https://iconscout.com/access?utm_campaign=onboarding-25&utm_medium=email&utm_source=journey lottiefiles 등 여러가지 애니메이션 json , svg 파일 얻을 수 있음.
 
 해보고 싶은 것
   1. 아이디어를 정리하고 관리 할 수 있는 계획적인 사이트가 필요함 (아이디어가 떠올라도 계속 증발)
